@@ -1,0 +1,9 @@
+{
+  "id": "split-reference-spike",
+  "name": "Split Reference (Phase 1 Spike)",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Feasibility spike: read-only reference (note or PDF) in a CM6 top panel above the editor. State stored in the note's properties. Not for daily use.",
+  "author": "142bot",
+  "isDesktopOnly": false
+}
